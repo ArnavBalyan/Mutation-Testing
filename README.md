@@ -1,7 +1,7 @@
 # Mutation-Testing
 Mutation testing is used to design new software tests and evaluate the quality of existing software tests.
 <br>
-![alt](https://github.com/aniketgupta1902/Mutation-Testing/blob/main/mutation%20testing.jpg)
+![alt](https://cdn.guru99.com/images/m2.png)
 <br>
 Mutation testing involves modifying a program in small ways. 
 <br>
